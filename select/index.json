@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ミラ",
+  "base_artist": "菅原圭",
+  "createdAt": "2026-02-17T11:36:57.865771Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ミラ",
+      "artist": "菅原 圭",
+      "has_synced": false,
+      "path": "select/pl_01_ミラ_菅原_圭.txt"
+    }
+  ]
+}
